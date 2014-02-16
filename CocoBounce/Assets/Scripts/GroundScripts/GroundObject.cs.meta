@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: fdecbf27204d74910980735d794cf823
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gameObject: {instanceID: 0}
+  - GroundObjectPrefab: {fileID: 100000, guid: 5e4768c163a7e4bd2961418b8facf372, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

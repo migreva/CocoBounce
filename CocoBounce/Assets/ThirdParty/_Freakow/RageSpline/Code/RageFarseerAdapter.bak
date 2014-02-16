@@ -1,0 +1,22 @@
+using System.Collections.Generic;
+using UnityEngine;
+
+/// <summary> Version with RageFarseer disabled </summary>
+public class RageFarseerAdapter : MonoBehaviour {
+
+    public static bool FarseerEnabled = false;
+
+    public static void DestroyFarseerPhysics(RageSpline spline) {
+    }
+
+    public static void UpdateFarseerPhysics(RageSpline spline) {
+    }
+	
+    public static bool UpdateFarseerPositionCheck(GameObject reference, GameObject target) {
+        return false;
+    }
+
+    public static bool UpdateFarseerRotationCheck(GameObject reference, GameObject target) {
+        return false;
+    }
+}
