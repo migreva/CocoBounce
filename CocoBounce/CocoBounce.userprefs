@@ -1,8 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../SurvivorPrototype/SurvivorPrototype/Assets/Scripts/FishDemo/LevelGenerator.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ThirdParty/RageFarseer/Editor/FarseerComponents/Base/FSCollisionGroupEditor.cs">
     <Files>
-      <File FileName="../../SurvivorPrototype/SurvivorPrototype/Assets/Scripts/FishDemo/LevelGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Coconut.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Constants.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GroundScripts/GroundController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameplayManager.cs" Line="7" Column="2" />
+      <File FileName="Assets/ThirdParty/RageFarseer/Editor/FarseerComponents/Base/FSCollisionGroupEditor.cs" Line="4" Column="7" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
